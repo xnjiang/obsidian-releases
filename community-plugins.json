@@ -40556,5 +40556,12 @@
     "author": "Leandro Voltolino",
     "description": "Yet Another Bases Calendar View. Lay notes out as cards on a day, week or month grid, and drag them to reschedule a date property. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xupisco/obsidian-yabacavi"
+  },
+  {
+    "id": "speakpen-sync",
+    "name": "SpeakPen Sync",
+    "author": "SpeakPen",
+    "description": "Sync your SpeakPen voice notes into your vault as Markdown, with AI summaries and transcripts.",
+    "repo": "xnjiang/speakpen-obsidian"
   }
 ]
